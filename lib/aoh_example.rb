@@ -27,7 +27,7 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
-  people_list[0][:name]
+ result[0][:name]
 end
 
 def aoh_update(aoh, row, key, new_value)
